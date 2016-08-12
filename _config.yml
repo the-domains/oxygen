@@ -13,23 +13,23 @@ collections:
       number: 10
 color:
   saturation: 0.279628791147843
-  brandStrength: 0.25
-  rhythmicContrast: 0.25
+  brandStrength: 0
+  lightness: 0.3087181067094207
   brandColors:
     - '#000000'
     - '#f1f0f6'
     - '#3a4653'
     - '#cdb9a9'
     - '#7e7d83'
-  lightness: 0.3087181067094207
-cta:
-  bucket: null
-  version: null
-  domain: null
+  rhythmicContrast: 0.25
 analytics:
   twitter: null
   google: null
   facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 favicon: null
 name: Oxygen
 opengraph:
