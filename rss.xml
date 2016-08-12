@@ -4,21 +4,21 @@
         <description><![CDATA[Oxygen]]></description>
         <link>https://thegrid.ai/oxygen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 02:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 03:16:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oxygen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Air pollution associated with Cancer - 22% increased risk</p>]]></description>
+            <link>https://thegrid.ai/oxygen/air-pollution-associated-with-cancer-22-increased-risk/index.html</link>
+            <guid isPermaLink="false">c2452e17-a7eb-4476-94be-17af2e81f920</guid>
+            <pubDate>Fri, 12 Aug 2016 03:16:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>10 Tips to Protect Yourself from Unhealthy Air</p>]]></description>
             <link>https://thegrid.ai/oxygen/10-tips-to-protect-yourself-from-unhealthy-air/index.html</link>
             <guid isPermaLink="false">3820297c-bff5-4295-9bad-d18129f57021</guid>
             <pubDate>Fri, 12 Aug 2016 02:47:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Air pollution associated with Cancer - 22% increased risk</p>]]></description>
-            <link>https://thegrid.ai/oxygen/air-pollution-associated-with-cancer-22-increased-risk/index.html</link>
-            <guid isPermaLink="false">c2452e17-a7eb-4476-94be-17af2e81f920</guid>
-            <pubDate>Thu, 11 Aug 2016 03:00:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
