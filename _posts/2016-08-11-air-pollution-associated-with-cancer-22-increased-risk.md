@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Air pollution associated with Cancer - 22% increased risk
-datePublished: '2016-08-11T03:00:12.253Z'
-dateModified: '2016-08-11T02:59:54.051Z'
+datePublished: '2016-08-12T03:16:10.449Z'
+dateModified: '2016-08-11T03:00:18.034Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-11-air-pollution-associated-with-cancer-22-increased-risk.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-11-air-pollution-associated-with-cancer-22-increased-risk.md
 url: air-pollution-associated-with-cancer-22-increased-risk/index.html
 _type: Article
 
